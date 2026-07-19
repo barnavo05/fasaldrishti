@@ -48,4 +48,4 @@ AI for Bharat Hackathon (IIIT Delhi) — AgriTech track.
 ## Author
 
 **Barnavo Dey** — [LinkedIn](https://linkedin.com/in/barnavo-dey) · [GitHub](https://github.com/barnavo05) · barnavodey05@gmail.com
-IEEE paper co-authored with Pushkar Agarwal.
+IEEE paper co-authore
