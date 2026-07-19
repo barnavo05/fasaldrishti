@@ -3,7 +3,7 @@
 **AI-powered produce grading & shelf life estimation for Indian agri supply chains.**
 Photograph produce on any smartphone → get a quality grade, an estimated shelf life, and a Grad-CAM heatmap that shows *why*.
 
-🔗 **Live demo:** [ADD STREAMLIT LINK]
+🔗 **Live demo:** (https://fasaldrishti.streamlit.app/)
 🎥 **Video walkthrough:** [ADD YOUTUBE LINK]
 📄 **Research:** Based on our first-author IEEE paper — *"Fruit Quality Monitoring Using CNN, DCFNet, Grad-CAM and Shelf Life Estimation via a Deployable Web Application"*, accepted at AMLDS 2026, Osaka (Paper ID S5209).
 
