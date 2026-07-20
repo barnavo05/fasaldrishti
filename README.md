@@ -4,7 +4,7 @@
 Photograph produce on any smartphone → get a quality grade, an estimated shelf life, and a Grad-CAM heatmap that shows *why*.
 
 🔗 **Live demo:** (https://fasaldrishti.streamlit.app/)
-🎥 **Video walkthrough:** [ADD YOUTUBE LINK]
+🎥 **Video walkthrough:** (https://drive.google.com/file/d/1yArgaU1t8DbTieEB9EBgUtoypVR5zIx5/view?usp=sharing)
 📄 **Research:** Based on our first-author IEEE paper — *"Fruit Quality Monitoring Using CNN, DCFNet, Grad-CAM and Shelf Life Estimation via a Deployable Web Application"*, accepted at AMLDS 2026, Osaka (Paper ID S5209).
 
 ![screenshot](assets/screenshot.png)
